@@ -1,0 +1,8 @@
+# Ignore every file
+*
+# Except...
+!.gitignore
+!python/*.py
+# and ...
+!jupyter
+!*.md
